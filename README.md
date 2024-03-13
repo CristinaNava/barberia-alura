@@ -5,3 +5,5 @@ Para ejecutar els istema debes poner:
     ´´´np install reset´´´
 
     ------Esto solo es un ejemplo------
+
+    Barberia Alura 2
